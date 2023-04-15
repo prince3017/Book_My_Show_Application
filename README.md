@@ -44,5 +44,4 @@ This will start the application on localhost:8888.
 
 To view the Swagger UI documentation, navigate to http://localhost:8888/swagger-ui/index.html
 
-Contributors:
-Mayur
+
